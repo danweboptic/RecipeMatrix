@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Onion",
+        "cuisines": "All",
+        "flavour_profiles": ["Savoury"],
+        "pairs_with": "All"
+    },
+    {
+        "name": "Garlic",
+        "cuisines": "All",
+        "flavour_profiles": ["Savoury"],
+        "pairs_with": "All"
+    },
+    {
+        "name": "Carrot",
+        "cuisines": ["British", "Chinese"],
+        "flavour_profiles": ["Sweet", "Savoury"],
+        "pairs_with": ["Chicken", "Beef", "Lentils"]
+    },
+    {
+        "name": "Bell Pepper",
+        "cuisines": ["Mexican", "Chinese"],
+        "flavour_profiles": ["Sweet", "Savoury"],
+        "pairs_with": ["Beef", "Chicken", "Beans"]
+    },
+    {
+        "name": "Broccoli",
+        "cuisines": ["Chinese", "British"],
+        "flavour_profiles": ["Savoury"],
+        "pairs_with": ["Chicken", "Tofu", "Garlic"]
+    },
+    {
+        "name": "Frozen Peas",
+        "cuisines": ["British"],
+        "flavour_profiles": ["Sweet", "Savoury"],
+        "pairs_with": ["Rice", "Chicken", "Eggs"]
+    },
+    {
+        "name": "Frozen Spinach",
+        "cuisines": ["Indian", "Middle Eastern"],
+        "flavour_profiles": ["Savoury"],
+        "pairs_with": ["Lentils", "Chicken", "Rice"]
+    },
+    {
+        "name": "Tinned Tomatoes",
+        "cuisines": ["Italian", "Mexican"],
+        "flavour_profiles": ["Tangy", "Savoury"],
+        "pairs_with": ["Pasta", "Beef", "Chicken"]
+    },
+    {
+        "name": "Courgette",
+        "cuisines": ["Italian", "British"],
+        "flavour_profiles": ["Savoury"],
+        "pairs_with": ["Tomatoes", "Garlic", "Chicken"]
+    },
+    {
+        "name": "Mushrooms",
+        "cuisines": ["British", "Italian"],
+        "flavour_profiles": ["Umami", "Savoury"],
+        "pairs_with": ["Garlic", "Pasta", "Beef"]
+    }
+]
