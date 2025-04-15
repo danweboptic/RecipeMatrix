@@ -3,60 +3,70 @@
         "name": "Onion",
         "cuisines": "All",
         "flavour_profiles": ["Savoury"],
-        "pairs_with": "All"
+        "pairs_with": "All",
+        "portion_per_serving_g": 100
     },
     {
         "name": "Garlic",
         "cuisines": "All",
         "flavour_profiles": ["Savoury"],
-        "pairs_with": "All"
+        "pairs_with": "All",
+        "portion_per_serving_g": 100
     },
     {
         "name": "Carrot",
         "cuisines": ["British", "Chinese"],
         "flavour_profiles": ["Sweet", "Savoury"],
-        "pairs_with": ["Chicken", "Beef", "Lentils"]
+        "pairs_with": ["Chicken", "Beef", "Lentils"],
+        "portion_per_serving_g": 100
     },
     {
         "name": "Bell Pepper",
         "cuisines": ["Mexican", "Chinese"],
         "flavour_profiles": ["Sweet", "Savoury"],
-        "pairs_with": ["Beef", "Chicken", "Beans"]
+        "pairs_with": ["Beef", "Chicken", "Beans"],
+        "portion_per_serving_g": 100
     },
     {
         "name": "Broccoli",
         "cuisines": ["Chinese", "British"],
         "flavour_profiles": ["Savoury"],
-        "pairs_with": ["Chicken", "Tofu", "Garlic"]
+        "pairs_with": ["Chicken", "Tofu", "Garlic"],
+        "portion_per_serving_g": 100
     },
     {
         "name": "Frozen Peas",
         "cuisines": ["British"],
         "flavour_profiles": ["Sweet", "Savoury"],
-        "pairs_with": ["Rice", "Chicken", "Eggs"]
+        "pairs_with": ["Rice", "Chicken", "Eggs"],
+        "portion_per_serving_g": 100
     },
     {
         "name": "Frozen Spinach",
         "cuisines": ["Indian", "Middle Eastern"],
         "flavour_profiles": ["Savoury"],
-        "pairs_with": ["Lentils", "Chicken", "Rice"]
+        "pairs_with": ["Lentils", "Chicken", "Rice"],
+        "portion_per_serving_g": 100
     },
     {
         "name": "Tinned Tomatoes",
         "cuisines": ["Italian", "Mexican"],
         "flavour_profiles": ["Tangy", "Savoury"],
-        "pairs_with": ["Pasta", "Beef", "Chicken"]
+        "pairs_with": ["Pasta", "Beef", "Chicken"],
+        "portion_per_serving_g": 200
     },
     {
         "name": "Courgette",
         "cuisines": ["Italian", "British"],
         "flavour_profiles": ["Savoury"],
-        "pairs_with": ["Tomatoes", "Garlic", "Chicken"]
+        "pairs_with": ["Tomatoes", "Garlic", "Chicken"],
+        "portion_per_serving_g": 100
     },
     {
         "name": "Mushrooms",
         "cuisines": ["British", "Italian"],
         "flavour_profiles": ["Umami", "Savoury"],
-        "pairs_with": ["Garlic", "Pasta", "Beef"]
+        "pairs_with": ["Garlic", "Pasta", "Beef"],
+        "portion_per_serving_g": 100
     }
 ]
