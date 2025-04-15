@@ -1,0 +1,134 @@
+[
+    {
+        "name": "Olive Oil",
+        "cuisines": ["Italian", "British", "Middle Eastern"],
+        "flavour_profiles": ["Savoury"],
+        "pairs_with": "All"
+    },
+    {
+        "name": "Worcestershire Sauce",
+        "cuisines": ["British"],
+        "flavour_profiles": ["Tangy", "Savoury"],
+        "pairs_with": ["Beef", "Chicken"]
+    },
+    {
+        "name": "Soy Sauce",
+        "cuisines": ["Chinese"],
+        "flavour_profiles": ["Savoury", "Umami"],
+        "pairs_with": ["Chicken", "Tofu", "Pork"]
+    },
+    {
+        "name": "Mixed Herbs",
+        "cuisines": ["British", "Italian"],
+        "flavour_profiles": ["Herby"],
+        "pairs_with": "All"
+    },
+    {
+        "name": "Curry Powder",
+        "cuisines": ["Indian"],
+        "flavour_profiles": ["Spicy", "Savoury"],
+        "pairs_with": ["Chicken", "Lentils", "Chickpeas"]
+    },
+    {
+        "name": "Cumin",
+        "cuisines": ["Mexican", "Indian", "Middle Eastern"],
+        "flavour_profiles": ["Smoky", "Spicy"],
+        "pairs_with": ["Chicken", "Beans", "Lamb"]
+    },
+    {
+        "name": "Paprika",
+        "cuisines": ["Mexican", "Middle Eastern"],
+        "flavour_profiles": ["Smoky", "Spicy"],
+        "pairs_with": ["Chicken", "Beef", "Pork"]
+    },
+    {
+        "name": "Chilli Flakes",
+        "cuisines": ["Mexican", "Chinese", "Indian"],
+        "flavour_profiles": ["Spicy"],
+        "pairs_with": "All"
+    },
+    {
+        "name": "Chicken Stock Cube",
+        "cuisines": ["British", "Italian"],
+        "flavour_profiles": ["Savoury"],
+        "pairs_with": "All"
+    },
+    {
+        "name": "Veg Stock Cube",
+        "cuisines": ["British", "Italian"],
+        "flavour_profiles": ["Savoury"],
+        "pairs_with": "All"
+    },
+    {
+        "name": "Hot Sauce",
+        "cuisines": ["Mexican", "American"],
+        "flavour_profiles": ["Spicy", "Tangy"],
+        "pairs_with": ["Chicken", "Beef", "Tofu"]
+    },
+    {
+        "name": "Vinegar",
+        "cuisines": ["British", "Italian"],
+        "flavour_profiles": ["Tangy"],
+        "pairs_with": ["Vegetables", "Chicken"]
+    },
+    {
+        "name": "Honey",
+        "cuisines": ["British", "Middle Eastern"],
+        "flavour_profiles": ["Sweet"],
+        "pairs_with": ["Chicken", "Vegetables"]
+    },
+    {
+        "name": "Mustard",
+        "cuisines": ["British", "American"],
+        "flavour_profiles": ["Tangy", "Savoury"],
+        "pairs_with": ["Beef", "Chicken"]
+    },
+    {
+        "name": "Coriander",
+        "cuisines": ["Indian", "Mexican", "Middle Eastern"],
+        "flavour_profiles": ["Herby", "Fresh"],
+        "pairs_with": ["Chicken", "Lentils", "Beans"]
+    },
+    {
+        "name": "Basil",
+        "cuisines": ["Italian"],
+        "flavour_profiles": ["Herby", "Fresh"],
+        "pairs_with": ["Tomatoes", "Chicken"]
+    },
+    {
+        "name": "Oregano",
+        "cuisines": ["Italian", "Mexican"],
+        "flavour_profiles": ["Herby"],
+        "pairs_with": ["Tomatoes", "Chicken", "Beef"]
+    },
+    {
+        "name": "Thyme",
+        "cuisines": ["British", "French"],
+        "flavour_profiles": ["Herby"],
+        "pairs_with": ["Chicken", "Vegetables", "Beef"]
+    },
+    {
+        "name": "Rosemary",
+        "cuisines": ["British", "French"],
+        "flavour_profiles": ["Herby"],
+        "pairs_with": ["Chicken", "Potatoes", "Lamb"]
+    },
+    {
+        "name": "Parsley",
+        "cuisines": ["British", "Middle Eastern"],
+        "flavour_profiles": ["Herby", "Fresh"],
+        "pairs_with": ["Fish", "Vegetables", "Chicken"]
+    },
+    {
+        "name": "Turmeric",
+        "cuisines": ["Indian"],
+        "flavour_profiles": ["Earthy", "Savoury"],
+        "pairs_with": ["Lentils", "Chicken", "Rice"]
+    },
+    {
+        "name": "Garam Masala",
+        "cuisines": ["Indian"],
+        "flavour_profiles": ["Spicy", "Savoury"],
+        "pairs_with": ["Chicken", "Lentils", "Chickpeas"]
+    }
+]
