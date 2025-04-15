@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Chicken Breast",
+        "cuisines": ["British", "Chinese", "Indian", "Italian"],
+        "flavour_profiles": ["Savoury"],
+        "pairs_with": "All"
+    },
+    {
+        "name": "Beef Mince",
+        "cuisines": ["British", "Mexican", "Italian"],
+        "flavour_profiles": ["Savoury"],
+        "pairs_with": ["Onion", "Garlic", "Tomatoes", "Rice"]
+    },
+    {
+        "name": "Pork Shoulder",
+        "cuisines": ["British", "Chinese"],
+        "flavour_profiles": ["Savoury"],
+        "pairs_with": ["Garlic", "Soy Sauce", "Potatoes"]
+    },
+    {
+        "name": "Eggs",
+        "cuisines": ["British", "Chinese"],
+        "flavour_profiles": ["Savoury"],
+        "pairs_with": "All"
+    },
+    {
+        "name": "Tofu",
+        "cuisines": ["Chinese", "Indian"],
+        "flavour_profiles": ["Savoury"],
+        "pairs_with": ["Soy Sauce", "Garlic", "Broccoli"]
+    },
+    {
+        "name": "Tinned Chickpeas",
+        "cuisines": ["Indian", "Middle Eastern"],
+        "flavour_profiles": ["Savoury"],
+        "pairs_with": ["Cumin", "Coriander", "Rice"]
+    },
+    {
+        "name": "Tinned Lentils",
+        "cuisines": ["Indian", "Middle Eastern"],
+        "flavour_profiles": ["Savoury"],
+        "pairs_with": ["Cumin", "Coriander", "Rice"]
+    },
+    {
+        "name": "Tinned Beans",
+        "cuisines": ["Mexican", "British"],
+        "flavour_profiles": ["Savoury"],
+        "pairs_with": ["Cumin", "Rice", "Peppers"]
+    }
+]
