@@ -1,0 +1,58 @@
+[
+    {
+        "name": "Chicken Breast",
+        "cuisines": ["British", "Chinese", "Indian", "Italian"],
+        "flavour_profiles": ["Savoury"],
+        "pairs_with": "All",
+        "portion_per_serving_g": 125
+    },
+    {
+        "name": "Beef Mince",
+        "cuisines": ["British", "Mexican", "Italian"],
+        "flavour_profiles": ["Savoury"],
+        "pairs_with": ["Onion", "Garlic", "Tomatoes", "Rice"],
+        "portion_per_serving_g": 125
+    },
+    {
+        "name": "Pork Shoulder",
+        "cuisines": ["British", "Chinese"],
+        "flavour_profiles": ["Savoury"],
+        "pairs_with": ["Garlic", "Soy Sauce", "Potatoes"],
+        "portion_per_serving_g": 125
+    },
+    {
+        "name": "Eggs",
+        "cuisines": ["British", "Chinese"],
+        "flavour_profiles": ["Savoury"],
+        "pairs_with": "All",
+        "portion_per_serving": 2
+    },
+    {
+        "name": "Tofu",
+        "cuisines": ["Chinese", "Indian"],
+        "flavour_profiles": ["Savoury"],
+        "pairs_with": ["Soy Sauce", "Garlic", "Broccoli"],
+        "portion_per_serving_g": 100
+    },
+    {
+        "name": "Tinned Chickpeas",
+        "cuisines": ["Indian", "Middle Eastern"],
+        "flavour_profiles": ["Savoury"],
+        "pairs_with": ["Cumin", "Coriander", "Rice"],
+        "portion_per_serving_g": 100
+    },
+    {
+        "name": "Tinned Lentils",
+        "cuisines": ["Indian", "Middle Eastern"],
+        "flavour_profiles": ["Savoury"],
+        "pairs_with": ["Cumin", "Coriander", "Rice"],
+        "portion_per_serving_g": 100
+    },
+    {
+        "name": "Tinned Beans",
+        "cuisines": ["Mexican", "British"],
+        "flavour_profiles": ["Savoury"],
+        "pairs_with": ["Cumin", "Rice", "Peppers"],
+        "portion_per_serving_g": 100
+    }
+]

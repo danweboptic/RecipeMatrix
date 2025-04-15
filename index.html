@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RecipeMatrix - Smart Meal Planner</title>
+    <link rel="stylesheet" href="css/styles.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>RecipeMatrix</h1>
+            <p class="tagline">Smart meal planning with minimal ingredients</p>
+        </header>
+
+        <section class="planner-controls">
+            <h2>Plan Your Meals</h2>
+            <div class="input-group">
+                <div class="input-control">
+                    <label for="num-meals">Number of Meals</label>
+                    <input type="number" id="num-meals" min="1" max="14" value="5">
+                </div>
+                <div class="input-control">
+                    <label for="servings">Servings Per Meal</label>
+                    <input type="number" id="servings" min="1" max="8" value="2">
+                </div>
+                <button id="generate-plan" class="btn-primary">Generate Plan</button>
+            </div>
+        </section>
+
+        <section class="results hidden">
+            <div class="tabs">
+                <button class="tab-btn active" data-tab="meals">Meal Plan</button>
+                <button class="tab-btn" data-tab="shopping">Shopping List</button>
+            </div>
+            
+            <div class="tab-content" id="meals-tab">
+                <h2>Your Meal Plan</h2>
+                <div id="meal-list" class="meal-list"></div>
+            </div>
+            
+            <div class="tab-content hidden" id="shopping-tab">
+                <h2>Shopping List</h2>
+                <div class="shopping-list-container">
+                    <div id="shopping-list" class="shopping-list"></div>
+                    <button id="print-list" class="btn-secondary">Print List</button>
+                </div>
+            </div>
+        </section>
+
+        <div id="loader" class="loader hidden">
+            <div class="spinner"></div>
+            <p>Generating your meal plan...</p>
+        </div>
+    </div>
+
+    <script src="js/dataLoader.js"></script>
+    <script src="js/mealPlanner.js"></script>
+    <script src="js/app.js"></script>
+</body>
+</html>
