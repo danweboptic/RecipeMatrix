@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Rice",
+        "cuisines": ["Chinese", "Indian", "Mexican"],
+        "flavour_profiles": ["Neutral"],
+        "pairs_with": "All"
+    },
+    {
+        "name": "Pasta",
+        "cuisines": ["Italian"],
+        "flavour_profiles": ["Neutral"],
+        "pairs_with": ["Tomatoes", "Garlic", "Chicken", "Cheese"]
+    },
+    {
+        "name": "Potatoes",
+        "cuisines": ["British"],
+        "flavour_profiles": ["Neutral"],
+        "pairs_with": ["Chicken", "Beef", "Rosemary", "Thyme"]
+    },
+    {
+        "name": "Couscous",
+        "cuisines": ["Middle Eastern"],
+        "flavour_profiles": ["Neutral"],
+        "pairs_with": ["Chickpeas", "Coriander", "Vegetables"]
+    },
+    {
+        "name": "Wraps/Tortillas",
+        "cuisines": ["Mexican"],
+        "flavour_profiles": ["Neutral"],
+        "pairs_with": ["Beans", "Chicken", "Beef", "Salsa"]
+    },
+    {
+        "name": "Bread",
+        "cuisines": ["British", "Italian"],
+        "flavour_profiles": ["Neutral"],
+        "pairs_with": "All"
+    }
+]
