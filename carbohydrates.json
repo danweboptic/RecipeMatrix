@@ -3,36 +3,42 @@
         "name": "Rice",
         "cuisines": ["Chinese", "Indian", "Mexican"],
         "flavour_profiles": ["Neutral"],
-        "pairs_with": "All"
+        "pairs_with": "All",
+        "portion_per_serving_g": 75
     },
     {
         "name": "Pasta",
         "cuisines": ["Italian"],
         "flavour_profiles": ["Neutral"],
-        "pairs_with": ["Tomatoes", "Garlic", "Chicken", "Cheese"]
+        "pairs_with": ["Tomatoes", "Garlic", "Chicken", "Cheese"],
+        "portion_per_serving_g": 75
     },
     {
         "name": "Potatoes",
         "cuisines": ["British"],
         "flavour_profiles": ["Neutral"],
-        "pairs_with": ["Chicken", "Beef", "Rosemary", "Thyme"]
+        "pairs_with": ["Chicken", "Beef", "Rosemary", "Thyme"],
+        "portion_per_serving_g": 200
     },
     {
         "name": "Couscous",
         "cuisines": ["Middle Eastern"],
         "flavour_profiles": ["Neutral"],
-        "pairs_with": ["Chickpeas", "Coriander", "Vegetables"]
+        "pairs_with": ["Chickpeas", "Coriander", "Vegetables"],
+        "portion_per_serving_g": 75
     },
     {
         "name": "Wraps/Tortillas",
         "cuisines": ["Mexican"],
         "flavour_profiles": ["Neutral"],
-        "pairs_with": ["Beans", "Chicken", "Beef", "Salsa"]
+        "pairs_with": ["Beans", "Chicken", "Beef", "Salsa"],
+        "portion_per_serving": 1
     },
     {
         "name": "Bread",
         "cuisines": ["British", "Italian"],
         "flavour_profiles": ["Neutral"],
-        "pairs_with": "All"
+        "pairs_with": "All",
+        "portion_per_serving": 1
     }
 ]
